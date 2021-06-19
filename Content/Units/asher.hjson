@@ -13,7 +13,7 @@ mechFrontSway: 1
 mechSideSway: 0.3
 weapons: [
 {
-name: desintegranite
+name: granitite
 top: false
 y: -0.3
 x: -24.3
