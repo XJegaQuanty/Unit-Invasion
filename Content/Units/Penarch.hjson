@@ -1,0 +1,37 @@
+type: mech
+name: Penarch
+description: Test...
+speed: 0.378
+hitSize: 31
+rotateSpeed: 1.65
+health: 11350
+armor: 9
+mechStepParticles: true
+mechStepShake: 0.75
+canDrown: false
+mechFrontSway: 1
+mechSideSway: 0.3
+weapons: [
+{
+name: desintegranite
+top: false
+y: -0.3
+x: 24.3
+shootY: 14.2
+reload: 33.6
+recoil: 5
+shake: 0.9
+bullet: {
+type: BasicBulletType
+x: 39
+y: 30
+sprite: "large-bomb"
+splashDamage: 60
+splashDamageRadius: 45
+drag: 0.016
+speed: 4.64
+lifetime: 60
+}
+}
+]
+
