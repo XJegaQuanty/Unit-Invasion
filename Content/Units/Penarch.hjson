@@ -16,7 +16,7 @@ weapons: [
 name: desintegranite
 top: false
 y: -0.3
-x: 24.3
+x: -24.3
 shootY: 14.2
 reload: 33.6
 recoil: 5
